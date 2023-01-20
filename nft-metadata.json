@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Brand",
+      "value": "Primark"
+    },
+    {
+      "trait_type": "Recommended Retail Price",
+      "value": "I think it was about £6"
+    },
+	{
+		"trait_type": "Source code",
+		"value": "https://github.com/albino/nftshirt"
+	}
+  ],
+  "description": "The world's first non-fungible T-shirt",
+  "image": "ipfs://QmXtCJSVWdWninqdBRnACWPCxDCU2mf9ZL5jTsB9MRBS6R",
+  "name": "E-Shirt"
+}
